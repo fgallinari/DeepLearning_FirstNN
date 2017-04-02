@@ -1,2 +1,2 @@
 # DeepLearning_FirstNN
-First project of the Deep Leaning course from Udacity
+First project of the Deep Learning course from Udacity
